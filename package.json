@@ -1,0 +1,8 @@
+{
+  "name": "sketchfab",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "three": "^0.110.0"
+  }
+}
