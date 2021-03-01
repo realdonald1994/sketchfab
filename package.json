@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
-    "three": "^0.110.0"
+    "three": "^0.125.0"
   }
 }
